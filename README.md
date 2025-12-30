@@ -107,10 +107,5 @@ mean_metrics = run_inference(model_path_decoder, model_path_lora)
 If you use this project in your research, please consider citing:
 
 ```bibtex
-@article{sam2023,
-  title={Segment Anything},
-  author={Kirillov, Alexander and Mintun, Eric and Ravi, Nikhila and Mao, Hanzi and Rolland, Chloe and Gustafson, Laura and Xiao, Tete and Whitehead, Spencer and Berg, Alexander C. and Lo, Wan-Yen and Doll{\'a}r, Piotr and Girshick, Ross},
-  journal={arXiv preprint arXiv:2304.02643},
-  year={2023}
-}
+...
 ```
