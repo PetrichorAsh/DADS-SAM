@@ -107,5 +107,14 @@ mean_metrics = run_inference(model_path_decoder, model_path_lora)
 If you use this project in your research, please consider citing:
 
 ```bibtex
-...
+@ARTICLE{11318053,
+  author={Guo, Shen and Li, Ying and Shang, Jiashuo and Wang, Zi and Yuan, Jingyi},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={DADS-SAM: DALoRA and DSCA Enhanced Fine-tuning for Port Oil Spill Detection Using UAV Imagery}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Parameter-efficient fine-tuning;oil spill detection;segment anything model;remote sensing},
+  doi={10.1109/TGRS.2025.3649271}}
 ```
