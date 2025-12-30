@@ -1,4 +1,4 @@
-# DADS-SAM Oil Spill Detection System
+# DADS-SAM: DALoRA and DSCA Enhanced Fine-tuning for Port Oil Spill Detection Using UAV Imagery
 
 A deep learning project for oil spill detection based on Segment Anything Model (SAM), using DALoRA (dynamic adaptive low-rank adaptation) and DSCA (dual scale convolutional adapter) for parameter-efficient fine-tuning.
 
