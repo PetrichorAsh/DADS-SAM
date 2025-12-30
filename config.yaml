@@ -1,0 +1,16 @@
+DATASET:
+  TRAIN_PATH: ""
+  TEST_PATH: ""
+  VAL_PATH: ""
+
+  TRAIN_IMAGE_FORMAT: ".jpg"
+  TEST_IMAGE_FORMAT: ".png"
+
+SAM:
+  CHECKPOINT: "./sam_vit_b_01ec64.pth"
+  RANK: 512
+
+TRAIN:
+  BATCH_SIZE: 2
+  NUM_EPOCHS: 100
+  LEARNING_RATE: 0.0001
