@@ -110,11 +110,11 @@ If you use this project in your research, please consider citing:
 @ARTICLE{11318053,
   author={Guo, Shen and Li, Ying and Shang, Jiashuo and Wang, Zi and Yuan, Jingyi},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={DADS-SAM: DALoRA and DSCA Enhanced Fine-tuning for Port Oil Spill Detection Using UAV Imagery}, 
-  year={2025},
-  volume={},
+  title={DADS-SAM: DALoRA and DSCA Enhanced Fine-Tuning for Port Oil Spill Detection Using UAV Imagery}, 
+  year={2026},
+  volume={64},
   number={},
-  pages={1-1},
-  keywords={Parameter-efficient fine-tuning;oil spill detection;segment anything model;remote sensing},
+  pages={1-20},
+  keywords={Oils;Seaports;Feature extraction;Adaptation models;Autonomous aerial vehicles;Accuracy;Hyperspectral imaging;Interference;Radar polarimetry;Convolutional neural networks;Oil spill detection (OSD);parameter-efficient fine-tuning (PEFT);remote sensing;segment anything model (SAM)},
   doi={10.1109/TGRS.2025.3649271}}
 ```
